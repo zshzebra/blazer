@@ -7,10 +7,10 @@
 </h4>
 
 <p align="center">
-    <a href="#features">Features</a> •
-    <a href="#installation">Installation</a> •
-    <a href="#configuration">Configuration</a> • 
-    <a href="#contributing">Contributing</a>
+    <a href="#-features">Features</a> •
+    <a href="#-installation">Installation</a> •
+    <a href="#-configuration">Configuration</a> • 
+    <a href="#-contributing">Contributing</a>
 </p>
 
 ## 🚀 Project Highlights
@@ -71,7 +71,7 @@ cd blazer
 zig build
 ```
 
-## Configuration
+## ⚙ Configuration
 
 Configuration details will be added as the project develops.
 
