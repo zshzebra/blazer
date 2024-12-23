@@ -61,11 +61,15 @@
 ## 🚧 Installation
 
 # Clone the repository
+```sh
 git clone https://github.com/zshzebra/blazer.git
+```
 
 # Build the project
+```sh
 cd blazer
 zig build
+```
 
 ## Configuration
 
