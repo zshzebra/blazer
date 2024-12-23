@@ -1,12 +1,12 @@
 <h1 align="center">
-    <img src="https://raw.githubusercontent.com/zshzebra/blazer/" alt="Blazer" />
+    <img src="https://raw.githubusercontent.com/zshzebra/blazer/refs/heads/main/assets/blazer-header.png" alt="Blazer" />
 </h1>
 
 <h4 align="center">
     Blazingly fast Minecraft server written in Zig
 </h4>
 
-<p>
+<p align="center">
     <a href="#features">Features</a> •
     <a href="#installation">Installation</a> •
     <a href="#configuration">Configuration</a> • 
@@ -86,6 +86,7 @@ Inspired by the minecraft blaze, a firery character symbolising speed.
 ## License
 
 GNU General Public License v3.0. See [LICENSE](LICENSE)
+
 ---
 
 **Disclaimer**: This project is under active development. Expect rapid changes and improvements!
