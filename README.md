@@ -77,11 +77,11 @@ We're planning a robust plugin system that will allow developers to extend Blaze
 
 ## 🤝 Contributing
 
-Contributions are welcome! Whether it's bug reports, feature requests, or code contributions, We'd love to see it.
+Contributions are welcome! Whether it's bug reports, feature requests, or code contributions, we'd love to see it.
 
 ## 🔥 Name Origin
 
-Inspired by the minecraft blaze, a firery character symbolising speed.
+Inspired by the Minecraft blaze, a firery character symbolising speed.
 
 ## License
 
